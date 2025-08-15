@@ -8,6 +8,8 @@
 alias ls='ls --color=auto'
 alias la='ls -la --color=auto' 
 alias grep='grep --color=auto'
+alias pacs='sudo pacman -S'
+
 PS1='[\u@\h \W]\$ '
 EDITOR="nano"
 complete -cf sudo
