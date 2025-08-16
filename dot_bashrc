@@ -13,3 +13,5 @@ alias pacs='sudo pacman -S'
 PS1='[\u@\h \W]\$ '
 EDITOR="nano"
 complete -cf sudo
+
+eval "$(starship init bash)"
