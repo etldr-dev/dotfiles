@@ -48,6 +48,7 @@ composefs
 containerd
 coreutils
 cryptsetup
+cura-bin
 curl
 dav1d
 db5.3
@@ -135,6 +136,7 @@ harfbuzz
 hicolor-icon-theme
 hidapi
 highway
+htop
 hwdata
 hwinfo
 hyfetch
@@ -187,6 +189,7 @@ libdaemon
 libdatrie
 libdbusmenu-glib
 libdbusmenu-gtk3
+libdecor
 libdisplay-info
 libdovi
 libdrm
@@ -194,12 +197,14 @@ libdvdnav
 libdvdread
 libebur128
 libedit
+libei
 libelf
 libepoxy
 libevdev
 libevent
 libfdk-aac
 libffi
+libfontenc
 libfreeaptx
 libgcrypt
 libgirepository
@@ -308,10 +313,12 @@ libxcb
 libxcomposite
 libxcrypt
 libxcursor
+libxcvt
 libxdamage
 libxdmcp
 libxext
 libxfixes
+libxfont2
 libxft
 libxi
 libxinerama
@@ -496,10 +503,12 @@ spirv-tools
 sqlite
 sratom
 srt
+starship
 sudo
 svt-av1
 swaybg
 swayfx
+swaylock
 systemd
 systemd-libs
 systemd-sysvcompat
@@ -520,6 +529,7 @@ ttf-bitstream-vera
 ttf-dejavu
 ttf-droid
 ttf-fira-mono
+ttf-firacode-nerd
 ttf-liberation
 ttf-opensans
 ttf-roboto
@@ -562,8 +572,13 @@ xdg-desktop-portal-hyprland
 xdg-desktop-portal-wlr
 xdg-utils
 xkeyboard-config
+xorg-fonts-encodings
+xorg-server-common
+xorg-setxkbmap
+xorg-xkbcomp
 xorg-xprop
 xorg-xset
+xorg-xwayland
 xorgproto
 xvidcore
 xxhash
